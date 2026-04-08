@@ -1,0 +1,12 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "black-market",
+  "owner": { "name": "ppazosp" },
+  "plugins": [
+    {
+      "name": "anvil",
+      "source": { "source": "url", "url": "https://github.com/ppazosp/anvil.git" },
+      "description": "Spec-driven project management for solo developers"
+    }
+  ]
+}
