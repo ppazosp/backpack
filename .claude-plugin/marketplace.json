@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "black-market",
+  "name": "backpack",
   "owner": { "name": "ppazosp" },
   "plugins": [
     {

@@ -1,4 +1,4 @@
-# black-market
+# backpack
 
 A Claude Code plugin marketplace by [ppazosp](https://github.com/ppazosp).
 
@@ -11,8 +11,8 @@ A Claude Code plugin marketplace by [ppazosp](https://github.com/ppazosp).
 ## Install
 
 ```
-/plugin marketplace add ppazosp/black-market
-/plugin install anvil@black-market
+/plugin marketplace add ppazosp/backpack
+/plugin install anvil@backpack
 ```
 
 Or add to `~/.claude/settings.json`:
@@ -20,12 +20,12 @@ Or add to `~/.claude/settings.json`:
 ```json
 {
   "extraKnownMarketplaces": {
-    "black-market": {
-      "source": { "source": "github", "repo": "ppazosp/black-market" }
+    "backpack": {
+      "source": { "source": "github", "repo": "ppazosp/backpack" }
     }
   },
   "enabledPlugins": {
-    "anvil@black-market": true
+    "anvil@backpack": true
   }
 }
 ```
