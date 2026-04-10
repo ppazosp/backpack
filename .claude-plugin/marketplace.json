@@ -7,6 +7,11 @@
       "name": "anvil",
       "source": { "source": "url", "url": "https://github.com/ppazosp/anvil.git" },
       "description": "Spec-driven project management for solo developers"
+    },
+    {
+      "name": "chisel",
+      "source": { "source": "url", "url": "https://github.com/ppazosp/chisel.git" },
+      "description": "Design system studio for frontend interfaces"
     }
   ]
 }
