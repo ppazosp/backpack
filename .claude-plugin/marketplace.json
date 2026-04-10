@@ -9,9 +9,9 @@
       "description": "Spec-driven project management for solo developers"
     },
     {
-      "name": "stencil",
-      "source": { "source": "url", "url": "https://github.com/ppazosp/stencil.git" },
-      "description": "Design system stencil for frontend interfaces"
+      "name": "chisel",
+      "source": { "source": "url", "url": "https://github.com/ppazosp/chisel.git" },
+      "description": "Design system studio for frontend interfaces"
     }
   ]
 }
